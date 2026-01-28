@@ -13,3 +13,6 @@ To explore RTOS internals such as scheduling, task management, and low-level ker
 
 ## License
 MIT License
+
+
+Note: Kernel has a panic problem. Sometimes I saw kernel panic, sometimes reset-loop for esp32.  I tested it only ESP32 Dev modeule now.
